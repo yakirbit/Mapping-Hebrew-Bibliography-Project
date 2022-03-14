@@ -1,0 +1,16 @@
+{
+  "name": "sipor",
+  "version": "1.0.0",
+  "dependencies": {
+    "csv-parse": "^5.0.4",
+    "fast-csv": "^4.3.6",
+    "formidable": "^2.0.1",
+    "marc4js": "^0.0.10",
+    "marcjs": "^2.0.1"
+  },
+  "devDependencies": {
+    "@natlibfi/marc-record-serializers": "^8.1.0",
+    "object-to-xml": "^2.0.0",
+    "should": "^13.2.3"
+  }
+}
